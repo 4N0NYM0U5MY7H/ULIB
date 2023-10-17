@@ -23,10 +23,10 @@ To clone and run these files, you must have [Bash](https://www.gnu.org/software/
 ### From the terminal
 ```bash
 # Clone this repository
-$ git clone https://github.com/4N0NYM0U5MY7H/csci210_ulib.git
+$ git clone https://github.com/4N0NYM0U5MY7H/CSCI210_ULIB.git
 
 # Go into the ulib directory
-$ cd cs210_ulib/ulib
+$ cd CSCI210_ULIB/ULIB
 
 # Make the files executable
 $ chmod +x *.sh
