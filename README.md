@@ -17,6 +17,7 @@
 ![Last Updated](https://img.shields.io/badge/April_2018-critical?label=Last%20Updated&style=flat-square)
 ![Not Maintained](https://img.shields.io/badge/Not_Maintained-critical?label=Status&style=flat-square) 
 
+## About
 This is the final project for Introduction to Unix/Linux Systems (CSCI 210) at Modesto Junior College. The goal of this project is to create a library management system using Bash. The program will allow the user to `ADD`, `DISPLAY`, `UPDATE`, or `DELETE` books in the library.
 
 ## Program Hierachy
