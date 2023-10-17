@@ -3,7 +3,7 @@
     srcset=".github/mjc_logo_reverse.svg"
     media="(prefers-color-scheme: dark)"
   />
-  <sourc
+  <source
     srcset=".github/mjc_logo.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
