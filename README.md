@@ -46,7 +46,7 @@ $ ./ULIB.sh
 For more cloning options, please visit the [GitHub Docs page for cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 ## Built with
-- [![Bash](https://img.shields.io/badge/Bash-4.4.20-4EAA25?logo=gnu-bash&style=flat-square)](https://www.gnu.org/software/bash/)
+- [![Bash](https://img.shields.io/badge/GNU_Bash-v4.4.20-4EAA25?labelColor=141414&logo=gnu-bash&style=flat-square)](https://www.gnu.org/software/bash/)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
