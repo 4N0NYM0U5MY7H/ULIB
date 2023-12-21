@@ -27,18 +27,21 @@ Library management system built with Bash that allows a user to create, read, up
 To clone and run these files, you must have [Bash](https://www.gnu.org/software/bash/) installed on your local machine.
 
 ### From the terminal
+Clone the repository
 ```bash
-# Clone this repository
-$ git clone https://github.com/4N0NYM0U5MY7H/CSCI210_ULIB.git
-
-# Go into the ulib directory
-$ cd CSCI210_ULIB/ULIB
-
-# Make the files executable
-$ chmod +x *.sh
-
-# Run the program
-$ ./ULIB.sh
+git clone https://github.com/4N0NYM0U5MY7H/ULIB.git
+```
+Move to `ulib` directory
+```bash
+cd ULIB/ulib
+```
+Make the files executable
+```bash
+chmod +x *.sh
+```
+Run the program
+```bash
+./ULIB.sh
 ```
 
 ### From GitHub
