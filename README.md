@@ -11,14 +11,14 @@
 
 </picture>
 
-# CSCI 210: Final Project — ULIB
-> **Note**: this repository is not maintained. It is only here for archival purposes.
+# Introduction to Unix/Linux Systems (CSCI 210)
+> **Note**: this repository is not maintained and is archived for historical purposes. The code may not work as intended and may contain security vulnerabilities. Use at your own risk.
 
 ![Last Updated](https://img.shields.io/badge/April_2018-critical?label=Last%20Updated&style=flat-square)
 ![Not Maintained](https://img.shields.io/badge/Not_Maintained-critical?label=Status&style=flat-square) 
 
-## About
-This is the final project for Introduction to Unix/Linux Systems (CSCI 210) at Modesto Junior College. The goal of this project is to create a library management system using Bash. The program will allow the user to `ADD`, `DISPLAY`, `UPDATE`, or `DELETE` books in the library.
+## Final Project: ULIB
+Library management system built with Bash that allows a user to create, read, update, and delete books in a library. The program also allows a user to check out and return books. Program data is stored in a text file.
 
 ## Program Hierachy
 ![Program Hierachy](notes/ulib_program.png)
