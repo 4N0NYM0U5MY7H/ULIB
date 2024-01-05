@@ -11,14 +11,16 @@
 
 </picture>
 
-# Introduction to Unix/Linux Systems (CSCI 210)
+# Introduction to Unix/Linux Systems and Programming (CSCI 210)
 > **Note**: this repository is not maintained and is archived for historical purposes. The code may not work as intended and may contain security vulnerabilities. Use at your own risk.
 
-![Last Updated](https://img.shields.io/badge/April_2018-critical?label=Last%20Updated&style=flat-square)
-![Not Maintained](https://img.shields.io/badge/Not_Maintained-critical?label=Status&style=flat-square) 
+![Last Updated](https://img.shields.io/badge/April_2018-critical?label=Last%20Updated)
+![Not Maintained](https://img.shields.io/badge/Not_Maintained-critical?label=Status) 
 
 ## Final Project: ULIB
-Library management system built with Bash that allows a user to create, read, update, and delete books in a library. The program also allows a user to check out and return books. Program data is stored in a text file.
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Learn_More-informational?logo=github&labelColor=000)](https://github.com/4N0NYM0U5MY7H/ULIB/discussions/1)
+
+Library management system built with Bash on Ubuntu 18 that allows a user to create, read, update, delete, checkout, and return books in a library. Program data is stored in text files.
 
 ## Program Hierachy
 ![Program Hierachy](notes/ulib_program.png)
