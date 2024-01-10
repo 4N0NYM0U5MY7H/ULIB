@@ -11,7 +11,7 @@
 </picture>
 
 # Final Project: ULIB
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Learn_More-informational?logo=github)](https://github.com/4N0NYM0U5MY7H/undergraduate/discussions/2)
+[![GitHub Discussions](https://img.shields.io/badge/Learn_More-informational?logo=github&style=for-the-badge)](https://github.com/4N0NYM0U5MY7H/undergraduate/discussions/2)
 
 Library management system built with Bash that allows a user to create, read, update, delete, checkout, and return books in a library.
 > **Note:** this repository is not maintained and is only available for historical purposes.
@@ -43,18 +43,8 @@ Run the program
 ./ULIB.sh
 ```
 
-### From GitHub
-1. Click the green **Code** button in the top right corner of the repository.
-2. Click **Download ZIP**.
-3. Extract the ZIP file.
-4. Set the files to be executable.
-5. Run the program.
-
-### More options
-For more cloning options, please visit the [GitHub Docs page for cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
-
 ## Built with
-- [![Bash](https://img.shields.io/badge/GNU_Bash-v4.4.20-4EAA25?labelColor=141414&logo=gnu-bash&style=flat-square)](https://www.gnu.org/software/bash/)
+[![Bash](https://img.shields.io/badge/GNU_Bash-v4.4.20-4EAA25?labelColor=141414&logo=gnu-bash&style=flat-square)](https://www.gnu.org/software/bash/)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
