@@ -14,7 +14,7 @@
 [![GitHub Discussions](https://img.shields.io/badge/Learn_More-informational?logo=github&style=for-the-badge)](https://github.com/4N0NYM0U5MY7H/undergraduate/discussions/2)
 
 Library management system built with Bash that allows a user to create, read, update, delete, checkout, and return books in a library.
-> **Note:** this repository is not maintained and is only available for historical purposes.
+> **WARNING:** this repository is archived and is no longer maintained.
 > 
 > [![Last Updated](https://img.shields.io/badge/April_2018-critical?label=Last%20Updated)](#)
 > [![Not Maintained](https://img.shields.io/badge/Not_Maintained-critical?label=Status)](#)
