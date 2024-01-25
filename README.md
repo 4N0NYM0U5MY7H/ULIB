@@ -20,28 +20,7 @@ Library management system built with Bash that allows a user to create, read, up
 > [![Not Maintained](https://img.shields.io/badge/Not_Maintained-critical?label=Status)](#)
 
 ## About
-This project is a Library Management System implemented using Bash scripting. The system provides various functionalities for managing books within a library.
-
-### Key Features
-1. Create
-   * Users can add new books to the library, providing details such as title, author, and other relevant information.
-
-2. Read
-   * The system allows users to view the details of existing books in the library.
-
-3. Update
-   * Users have the ability to modify the information associated with a book, such as updating the title, author, or any other attributes.
-
-4. Delete
-   * The system supports the removal of books from the library, ensuring effective management of the book inventory.
-
-5. Checkout
-   * Users can check out books, indicating that a particular book is currently borrowed by a library member.
-
-6. Return
-   * The return functionality allows users to mark a checked-out book as returned, making it available for others to borrow.
-
-This Library Management System aims to streamline the process of handling books within a library, providing a user-friendly interface through Bash scripting. Users can interact with the system through the command line to perform essential operations related to book management.
+Library Management System implemented using Bash scripting. Features a user-friendly text interface designed to collect user input and provide various functionalities for managing books within a library. Users can interact with the system through the command line to perform essential operations related to book management.
 
 ## Program Hierachy
 <img src="notes/ulib_program.png" alt="Ulib Program Hierarchy Chart." height="400px">
