@@ -11,7 +11,7 @@
 </picture>
 
 # Final Project: ULIB
-[![GitHub Discussions](https://img.shields.io/badge/Learn_More-informational?logo=github&style=for-the-badge)](https://github.com/4N0NYM0U5MY7H/undergraduate/discussions/2)
+[![GitHub Discussions](https://img.shields.io/badge/Learn_More-informational?logo=github&style=for-the-badge)](https://github.com/4N0NYM0U5MY7H/ULIB/discussions/1)
 
 Library management system built with Bash that allows a user to create, read, update, delete, checkout, and return books in a library.
 > **WARNING:** this repository is archived and is no longer maintained.
