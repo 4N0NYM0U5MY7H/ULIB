@@ -21,3 +21,5 @@ abstract: >-
   project for Introduction to Unix/Linux Systems &
   Programming at Modesto Junior College.
 license: MIT
+version: 1.0.0
+date-released: '2018-04-28'
