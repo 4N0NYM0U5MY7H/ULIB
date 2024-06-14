@@ -19,7 +19,12 @@ repository-code: 'https://github.com/4N0NYM0U5MY7H/ULIB'
 abstract: >-
   Library management system written in bash as the final
   project for Introduction to Unix/Linux Systems &
-  Programming at Modesto Junior College.
+  Programming at Modesto Junior College. Features a user-
+  friendly text interface designed to collect user input 
+  and provide various functionalities for managing books 
+  within a library. Users can interact with the system 
+  through the command line to perform essential operations 
+  related to book management.
 license: MIT
 version: 1.0.1
 date-released: '2018-04-28'
