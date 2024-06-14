@@ -14,12 +14,12 @@ authors:
     orcid: 'https://orcid.org/0009-0007-9200-8438'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.11156933
+    value: 10.5281/zenodo.11156932
 repository-code: 'https://github.com/4N0NYM0U5MY7H/ULIB'
 abstract: >-
   Library management system written in bash as the final
   project for Introduction to Unix/Linux Systems &
   Programming at Modesto Junior College.
 license: MIT
-version: 1.0.0
+version: 1.0.1
 date-released: '2018-04-28'
